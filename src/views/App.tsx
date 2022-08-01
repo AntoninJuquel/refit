@@ -16,8 +16,6 @@ const Container = styled.div`
   flex-direction: column;
 
   font-family: 'Poppins', sans-serif;
-
-  border-radius: 5px;
 `
 
 function randomBetweenMinMax(min: number, max: number) {

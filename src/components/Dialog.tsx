@@ -19,6 +19,8 @@ const Container = styled.dialog`
     background-color: #21262d;
     color: #c9d1d9;
 
+    padding: 5px;
+
     cursor: pointer;
 
     :hover {
